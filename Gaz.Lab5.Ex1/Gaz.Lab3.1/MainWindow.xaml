@@ -1,0 +1,15 @@
+﻿<Window x:Class="Gaz.Lab3._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gaz.Lab3._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="374"/>
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Left" Margin="750,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.343,-0.046" Click="saveButton_Click"/>
+        <Button x:Name="openButton" Content="Open" HorizontalAlignment="Left" Margin="705,10,0,0" VerticalAlignment="Top" Click="openButton_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86563e61-e016-429c-9463-a839bee52e5e": {
+      "ProjectGuid": "86563e61-e016-429c-9463-a839bee52e5e",
+      "DisplayName": "Test Harness",
+      "ColorIndex": 0
+    },
+    "a669c8c3-86ec-44ca-ac1a-377d40ede5eb": {
+      "ProjectGuid": "a669c8c3-86ec-44ca-ac1a-377d40ede5eb",
+      "DisplayName": "StressTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

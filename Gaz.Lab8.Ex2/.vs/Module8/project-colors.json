@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9107c932-d707-47c9-9a0c-e434a2a9a28d": {
+      "ProjectGuid": "9107c932-d707-47c9-9a0c-e434a2a9a28d",
+      "DisplayName": "DeviceController",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

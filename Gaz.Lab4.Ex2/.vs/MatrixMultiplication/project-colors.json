@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd94eaff-b6b8-4dd9-b367-09896bf35b42": {
+      "ProjectGuid": "cd94eaff-b6b8-4dd9-b367-09896bf35b42",
+      "DisplayName": "MatrixMultiplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

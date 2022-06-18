@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c53abbc5-19d5-40cd-9489-a77aa606256d": {
+      "ProjectGuid": "c53abbc5-19d5-40cd-9489-a77aa606256d",
+      "DisplayName": "MeasuringDevice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9780abbd-99f5-4a39-8956-9f7b29069182": {
+      "ProjectGuid": "9780abbd-99f5-4a39-8956-9f7b29069182",
+      "DisplayName": "SwitchTestHarness",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

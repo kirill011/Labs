@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30a8fe3d-a70d-425b-8e10-b56bf97936f4": {
+      "ProjectGuid": "30a8fe3d-a70d-425b-8e10-b56bf97936f4",
+      "DisplayName": "GreatestCommonDivisor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
